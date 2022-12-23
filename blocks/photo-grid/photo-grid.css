@@ -2,10 +2,11 @@
     grid-area: photo-grid;
     display: grid;
     width: 100%;
+    max-width: 1184px;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(3, 1fr);
     gap: 1em;
-    margin: 0 0 92px;
+    margin: 0 auto 92px;
   }
 
   @media screen and (max-width: 1024px){

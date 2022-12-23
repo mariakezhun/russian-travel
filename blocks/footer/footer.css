@@ -2,7 +2,9 @@
     grid-area: footer;
     display: flex;
     justify-content: space-between;
-    margin: 0 0 24px;
+    width: 100%;
+    max-width: 1184px;
+    margin: 0 auto 24px;
     padding: 0;
   }
 

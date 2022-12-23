@@ -5,4 +5,5 @@
     margin: auto;
     grid-area: lead;
     width: 100%;
+    max-width: 984px;
   }
