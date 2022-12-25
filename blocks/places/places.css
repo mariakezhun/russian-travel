@@ -1,7 +1,6 @@
 .places{
     grid-area: places;
     margin: 0 auto 92px;
-    width: 100%;
     max-width: 984px;
   }
 
@@ -9,6 +8,7 @@
     .places{
       margin: 0 0 90px;
       padding: 0 24px 0;
+      max-width: 720px;
     }
   }
 
@@ -16,5 +16,6 @@
     .places{
       margin: 0 0 66px;
       padding: 0;
+      max-width: 320px;
     }
   }

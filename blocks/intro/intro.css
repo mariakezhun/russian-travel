@@ -1,6 +1,5 @@
 .intro{
     grid-area: intro;
-    width: 100%;
     max-width: 690px;
     padding: 0;
     margin: 92px auto 92px;
