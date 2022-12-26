@@ -1,6 +1,6 @@
 .intro{
     grid-area: intro;
-    max-width: 690px;
+    max-width: 984px;
     padding: 0;
     margin: 92px auto 92px;
   }
@@ -9,6 +9,7 @@
     .intro{
       margin: 88px 0 88px;
       padding: 0 24px 0;
+      max-width: 720px;
     }
 }
 

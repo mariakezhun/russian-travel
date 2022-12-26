@@ -3,13 +3,9 @@
     font-size: 24px;
     line-height: 117%;
     color: #fff;
-    list-style: none;
     opacity: 100%;
+    text-decoration: none;
     transition: opacity 1s ease-in-out;
-  }
-
-  .header__lang-link:first-child{
-    text-decoration: underline;
   }
 
   .header__lang-link:hover{
