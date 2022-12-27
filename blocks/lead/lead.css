@@ -7,3 +7,17 @@
     width: 100%;
     max-width: 984px;
   }
+
+  @media screen and (max-width: 1024px){
+    .lead{
+      padding: 0 48px 0;
+      max-width: calc(100% - 96px);
+    }
+  }
+
+  @media screen and (max-width: 768px){
+    .lead{
+      padding: 0;
+      max-width: 768px;
+    }
+  }

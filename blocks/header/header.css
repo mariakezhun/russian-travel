@@ -16,6 +16,8 @@
     .header{
       margin-bottom: 48px;
       max-width: 928px;
+      padding: 28px 48px 0;
+      max-width: calc(100% - 96px);
     }
   }
 

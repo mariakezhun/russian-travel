@@ -1,6 +1,7 @@
 .page{
     max-width: 1280px;
     margin: 0 auto;
+    padding: 0 48px 0;
     font-family: 'Inter', sans-serif;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
@@ -27,7 +28,7 @@
 @media screen and (max-width: 1024px){
     .page{
         max-width: 1024px;
-        padding: 0 48px 0;
+        padding: 0;
        /* column-gap: 1em;
         grid-template-areas:
     "header header header header header header header header header header header header"
@@ -37,19 +38,5 @@
     "places places places places places places places places places places places places"
     "cover cover cover cover cover cover cover cover cover cover cover cover"
     "footer footer footer footer footer footer footer footer footer footer footer footer"; */
-    }
-}
-
-@media screen and (max-width: 768px){
-    .page{
-        padding: 0;
-       /* grid-template-areas:
-        "header header header header header header header header header header header header"
-        "lead lead lead lead lead lead lead lead lead lead lead lead"
-        "intro intro intro intro intro intro intro intro intro intro intro intro"
-        "photo-grid photo-grid photo-grid photo-grid photo-grid photo-grid photo-grid photo-grid photo-grid photo-grid photo-grid photo-grid"
-        "places places places places places places places places places places places places"
-        "cover cover cover cover cover cover cover cover cover cover cover cover"
-        "footer footer footer footer footer footer footer footer footer footer footer footer"; */
     }
 }
