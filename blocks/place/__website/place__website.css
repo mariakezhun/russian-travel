@@ -4,7 +4,7 @@
     align-self: end;
   }
 
-  @media screen and (max-width: 320px){
+  @media screen and (max-width: 410px){
     .place__website{
       padding: 0 16px 0;
     }  

@@ -27,7 +27,7 @@
     }
   }
 
-  @media all and (max-width: 320px){
+  @media all and (max-width: 410px){
     .header{
       margin-bottom: 45px;
       min-height: 42px;
